@@ -1,4 +1,4 @@
-# github_login
+# Github Login
 
 Github app login page clone
 
